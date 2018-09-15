@@ -1,0 +1,2 @@
+# dottmuxconfig
+config tmux
